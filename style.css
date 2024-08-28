@@ -2,7 +2,9 @@
   text-align: center;
 }
 
-
+body{
+  background-color: #62c8f4;
+}
 form{ 
   border: 1px solid #ccc;
 }
@@ -15,7 +17,7 @@ form label{
 }
 form{
   margin: 20px 0;
-  border: 5px solid orange;
+  border: 5px solid #ff7300;
   border-radius:5px ;
   margin-bottom:5px;
 }
@@ -23,7 +25,7 @@ form{
 .enviar {
   width: 40%;
   padding: 15px 0;
-  background-color: orange;
+  background-color: #ffae00;
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -40,7 +42,8 @@ form{
   color: white;
   font-weight: bold;
   border: none;
-  border-radius: 5px;
+  border-radiusbody{
+      background:linear-gradient(￼￼#1a69d, ￼￼#ff3131,￼￼#1a69dd);: 5px;
   margin-left: 65px;
 }
 .qm{
@@ -52,10 +55,8 @@ form{
   border: none;
   border-radius: 5px;
 }
-body{
-  background-color: #2a8dcb;
-}
 
 #hora{
    margin-right: 10px;
 }
+
